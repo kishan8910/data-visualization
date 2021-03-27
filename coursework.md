@@ -3,7 +3,8 @@
 
 **Visual Design Type (vistype):** Scatter Plot
 
-**Image:** \s\s
+**Image:** 
+\s\s
 
 ![Source Code](scatter_plot_viz1_code.png)
 ![Source Code](scatter_plot_viz1_plot.png)
