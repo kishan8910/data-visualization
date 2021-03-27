@@ -4,9 +4,9 @@
 **Visual Design Type (vistype):** Scatter Plot
 
 **Image:** 
+- - -
 ![Visualization 1](scatter_plot_viz1_plot.png)
 
-Source Code
 Source Code
 ```python
 # importing the necessary libraries altair and pandas for data visualization and manipulation
@@ -37,8 +37,6 @@ geo_points = base_main.mark_circle().encode(
 # display visualization
 geo_points
 ```
-
-
 
 **Visual Mappings (vismapping):** The unique concept that generated from an intricate amount of data is to visualize the objects for their different versions along with geographical locations with the help of latitude and longitude. Hence the visualization is done by plotting the latitude on X axis and longitude on Y axis. That would give us the position and scatter plot is used for this concept to make a visualization. The next objective was to plot versions of each entry and we are able to make the color factor to define the versions. More instensity relates to latest version. Less intensity refers to older version. An interactive element is made by giving a tooltip for every points to display the details including feature types and timeperiod.
 
