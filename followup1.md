@@ -5,7 +5,7 @@
 
 **Image:** 
 - - -
-![Visualization 1](scatter_matrix_viz2_plot.png)
+![Visualization 2](scatter_matrix_viz2_plot.png)
 
 Source Code
 ```python

@@ -5,8 +5,10 @@
 
 **Image:** 
 - - -
-![Visualization 1](interactive_crossfilter_viz3_plot.png)
-![Visualization 1](interactive_crossfilter_viz3_plot.gif)
+![Visualization 3](interactive_crossfilter_viz3_plot.png)
+- - -
+Interactivity
+![Visualization 3](interactive_crossfilter_viz3_plot.gif)
 
 Source Code
 ```python
